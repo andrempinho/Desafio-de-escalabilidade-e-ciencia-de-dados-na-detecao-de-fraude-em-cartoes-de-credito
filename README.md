@@ -1,1 +1,1 @@
-# Desafio-de-escalabilidade-e-ciencia-de-dados-na-detecao-de-fraude-em-cartoes-de-credito
+# Desafio de escalabilidade e ciência de dados na deteção de fraude em cartões de crédito
