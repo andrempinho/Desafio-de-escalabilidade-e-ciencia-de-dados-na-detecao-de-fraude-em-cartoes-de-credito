@@ -8,6 +8,7 @@
 * Python
 * Apache Spark
 * Scala
+* MLib
 * Hadoop
 
 
