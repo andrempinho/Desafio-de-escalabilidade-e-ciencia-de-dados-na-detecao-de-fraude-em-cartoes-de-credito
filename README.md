@@ -1,7 +1,7 @@
 # Desafio de escalabilidade e ciência de dados na deteção de fraude em cartões de crédito
 
 
-Disciplina: Sistemas de Gestão de Dados
+Disciplina: Sistemas de Gestão de Dados, 2017
 
 
 ### Visão geral
